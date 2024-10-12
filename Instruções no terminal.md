@@ -1,6 +1,6 @@
 
 # ⚙️ Configurando e Utilizando o GitHub no Terminal
-
+Testando
 Este guia rápido ensinará como configurar o GitHub no seu terminal e realizar um fluxo básico de trabalho com os comandos principais do Git. 
 
 ## 1. Instalação do Git
